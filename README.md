@@ -90,3 +90,15 @@ It is designed to integrate with existing ethical, legal, and technical framewor
 
 Cultural Reasoning is part of the broader Vianté frameworks for
 ethical system design, narrative integrity, and AI evaluation.
+
+cultural_reasoning.schema.json
+{
+  "cultural_reasoning": {
+    "enabled": true,
+    "confidence_level": "medium",
+    "context_provided": false,
+    "identified_factors": [],
+    "risk_of_misclassification": "unknown",
+    "notes": ""
+  }
+}
